@@ -1,4 +1,4 @@
-// ONE TO FIVE 
+//  FIVE  to 3
 // Theory - 5
 //Write a program to implement bubble sort.
 
